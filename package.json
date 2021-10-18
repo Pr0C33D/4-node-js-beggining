@@ -1,18 +1,30 @@
 {
-  "name": "4-node-js-beggining",
+  "name": "31-grupe-failu-sistema",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pilnavertis web.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "directories": {
+    "lib": "lib"
+  },
   "dependencies": {
     "live-server": "^1.2.1"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.13"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pr0C33D/4-node-js-beggining.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pr0C33D/4-node-js-beggining/issues"
+  },
+  "homepage": "https://github.com/Pr0C33D/4-node-js-beggining#readme"
 }
